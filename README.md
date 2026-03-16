@@ -21,7 +21,7 @@ The analysis focuses on factors such as:
 ## 🎥 Project Demo Video
 
 ```
-[https://github.com/yourusername/heart-disease-analysis/assets/demo-video](https://drive.google.com/drive/folders/11UGRHinQqwuz9nkXUehqRr7wa_dt07LH?usp=sharing)
+https://drive.google.com/drive/folders/11UGRHinQqwuz9nkXUehqRr7wa_dt07LH?usp=sharing
 ```
 
 
